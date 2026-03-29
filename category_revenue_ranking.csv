@@ -1,0 +1,33 @@
+item_name,category,total_revenue,ranking
+Cheeseburger,American,8132.85,1
+Hamburger,American,8054.90,2
+"French Fries",American,3997.00,3
+"Mac & Cheese",American,3241.00,4
+"Veggie Burger",American,2499.00,5
+"Hot Dog",American,2313.00,6
+"Korean Beef Bowl",Asian,10554.60,1
+"Tofu Pad Thai",Asian,8149.00,2
+"Orange Chicken",Asian,7524.00,3
+"Pork Ramen",Asian,6462.00,4
+"Salmon Roll",Asian,4843.80,5
+"California Roll",Asian,4242.25,6
+Edamame,Asian,3100.00,7
+Potstickers,Asian,1845.00,8
+"Spaghetti & Meatballs",Italian,8436.50,1
+"Eggplant Parmesan",Italian,7119.00,2
+"Chicken Parmesan",Italian,6533.80,3
+"Mushroom Ravioli",Italian,5564.50,4
+Spaghetti,Italian,5321.50,5
+"Meat Lasagna",Italian,4900.35,6
+"Shrimp Scampi",Italian,4768.05,7
+"Fettuccine Alfredo",Italian,3610.50,8
+"Cheese Lasagna",Italian,3208.50,9
+"Steak Torta",Mexican,6821.55,1
+"Chicken Burrito",Mexican,5892.25,2
+"Steak Burrito",Mexican,5292.30,3
+"Chicken Torta",Mexican,4529.05,4
+"Chips & Salsa",Mexican,3227.00,5
+"Steak Tacos",Mexican,2985.30,6
+"Cheese Quesadillas",Mexican,2446.50,7
+"Chips & Guacamole",Mexican,2133.00,8
+"Chicken Tacos",Mexican,1469.85,9
